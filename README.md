@@ -21,8 +21,8 @@ An automated script designed to simplify claiming tokens from the 0G Faucet, sol
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/0g-faucet-automation.git
-cd 0g-faucet-automation
+git clone https://github.com/Aero25x/0g-faucet.git
+cd 0g-faucet
 ```
 
 ### Install Dependencies
