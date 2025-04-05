@@ -55,7 +55,7 @@ Proxies must be in the following formats:
 - IP with authentication:
 
 ```text
-185.171.255.72:6125:hxjsvept:3pzgwox5suvu
+185.171.25.72:6125:username:password
 ```
 
 ### 3. Wallet JSON (Optional)
@@ -90,7 +90,7 @@ python main.py
 ### Example Run:
 
 ```
-Processing wallet [1/2]: 0xYourWalletAddress1 | Proxy: 185.171.255.72:****:****:**** | Attempt: 1
+Processing wallet [1/2]: 0xYourWalletAddress1 | Proxy: 185.171.25.72:****:****:**** | Attempt: 1
 Requesting captcha solution from 2Captcha...
 Captcha ID obtained: 1234567890
 Captcha solved successfully.
@@ -103,7 +103,7 @@ Successfully claimed faucet! Transaction link: https://chainscan-newton.0g.ai/tx
 Successful claims are logged in `log.txt`:
 
 ```
-0xYourWalletAddress1,185.171.255.72:****:****:****,transaction_hash_here,https://chainscan-newton.0g.ai/tx/transaction_hash_here
+0xYourWalletAddress1,185.171.25.72:****:****:****,transaction_hash_here,https://chainscan-newton.0g.ai/tx/transaction_hash_here
 ```
 
 ## Contribution
