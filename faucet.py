@@ -30,8 +30,8 @@ print("""
 init(autoreset=True)
 
 # User settings
-CAPTCHA_API_KEY = '2494769ec9ac4b0bda91a350bd7af965'  # Replace with your 2Captcha API key
-HCAPTCHA_SITE_KEY = 'HERE_CAPTCHA_KEY'
+CAPTCHA_API_KEY = ''  # Replace with your 2Captcha API key
+HCAPTCHA_SITE_KEY = '1230eb62-f50c-4da4-a736-da5c3c342e8e'
 FAUCET_ENDPOINT = 'https://992dkn4ph6.execute-api.us-west-1.amazonaws.com/'
 MAX_RETRY = 2
 REQUEST_DELAY = 10
