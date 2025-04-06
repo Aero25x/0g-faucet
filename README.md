@@ -58,7 +58,7 @@ Proxies must be in the following formats:
 185.171.25.72:6125:username:password
 ```
 
-### 3. Wallet JSON (Optional)
+### 3. Wallet JSON (Optional) - Exported from [Kozel Software](https://github.com/HiddenCodeDevs/kozel)
 To load wallets from a JSON file, create `wallets.json`:
 
 ```json
